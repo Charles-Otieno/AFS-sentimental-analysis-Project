@@ -1,1 +1,1 @@
-entimental Analysis Project for Africa Data School.
+sentimental Analysis Project for Africa Data School.
